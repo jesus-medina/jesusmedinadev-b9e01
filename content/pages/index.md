@@ -12,7 +12,7 @@ sections:
       aplicaciones públicas. Creo que todos los problemas se pueden resolver a
       través de un dispositivo móvil.
     actions:
-      - label: Let's talk
+      - label: Conóceme
         url: /contact
         style: button
   - section_id: latest-projects
