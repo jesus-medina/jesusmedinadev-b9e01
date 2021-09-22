@@ -5,9 +5,12 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, Soy Jesús Medina.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Soy Ingeniero de Software experto en desarrollo de apps móviles. Me
+      especializo en Android con Kotlin, el lenguaje de programación oficial
+      para crear apps para Android. He trabajado en proyectos privados como en
+      aplicaciones públicas. Creo que todos los problemas se pueden resolver a
+      través de un dispositivo móvil.
     actions:
       - label: Let's talk
         url: /contact
