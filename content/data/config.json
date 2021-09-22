@@ -1,5 +1,5 @@
 {
-    "title": "Stackbit Exto Theme",
+    "title": "Jesus Daniel Medina Cruz",
     "path_prefix": "/",
     "color_scheme": "light",
     "accent_color": "pink",
@@ -8,12 +8,12 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
+                "label": "Inicio",
                 "url": "/",
                 "style": "link"
             },
             {
-                "label": "Portfolio",
+                "label": "Portafolio",
                 "url": "/portfolio/",
                 "style": "link"
             },
@@ -23,18 +23,33 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide/",
+                "label": "Formación / Speaking",
+                "url": "/formation-speaking/",
                 "style": "link"
             },
             {
-                "label": "About",
+                "label": "Acerca de mí",
                 "url": "/about/",
                 "style": "link"
             },
             {
-                "label": "Contact",
+                "label": "Contacto",
                 "url": "/contact/",
+                "style": "link"
+            },
+            {
+                "label": "Consultoría",
+                "url": "/consultancy/",
+                "style": "link"
+            },
+            {
+                "label": "Servicios",
+                "url": "/services/",
+                "style": "link"
+            },
+            {
+                "label": "Productos",
+                "url": "/products/",
                 "style": "link"
             }
         ]
@@ -44,31 +59,45 @@
         "has_social": true,
         "social_links": [
             {
+                "label": "Email",
+                "url": "jesus.daniel.medina.cruz@gmail.com",
+                "style": "icon",
+                "icon": "email",
+                "new_window": true
+            },
+            {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/JesusDMedinaC",
                 "style": "icon",
                 "icon": "twitter",
                 "new_window": true
             },
             {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "label": "Facebook",
+                "url": "https://www.facebook.com/jesusdmedinac",
                 "style": "icon",
-                "icon": "instagram",
+                "icon": "facebook",
                 "new_window": true
             },
             {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
+                "label": "Github",
+                "url": "https://github.com/jesus-medina",
                 "style": "icon",
-                "icon": "dribbble",
+                "icon": "github",
                 "new_window": true
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/jesús-daniel-medina-cruz",
                 "style": "icon",
                 "icon": "linkedin",
+                "new_window": true
+            },
+            {
+                "label": "YouTube",
+                "url": "https://www.youtube.com/channel/UC12UExm8L-x3-OKtPZHKjkA",
+                "style": "icon",
+                "icon": "youtube",
                 "new_window": true
             }
         ]
