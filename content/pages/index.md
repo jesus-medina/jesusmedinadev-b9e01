@@ -1,19 +1,15 @@
 ---
-title: Home
+title: Inicio
 hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hola, Soy Jesús Medina.'
+    title: 'Consigue tu primer empleo como programador aún sin saber programar'
     content: >
-      Soy Ingeniero de Software experto en desarrollo de apps móviles. Me
-      especializo en Android con Kotlin, el lenguaje de programación oficial
-      para crear apps para Android. He trabajado en proyectos privados como en
-      aplicaciones públicas. Creo que todos los problemas se pueden resolver a
-      través de un dispositivo móvil.
+      Nuestro programa “Programa tu futuro” es un programa de formación intensivo que te convierte en un programador profesional en menos de 1 año.
     actions:
-      - label: Conóceme
-        url: /contact
+      - label: Quiero aumentar mis ingresos
+        url: /formation-speaking
         style: button
   - section_id: latest-projects
     type: section_portfolio
