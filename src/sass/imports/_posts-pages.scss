@@ -140,3 +140,14 @@
     font-size: 1.22222em;
   }
 }
+
+.centered-image img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.centered-image p {
+  font-style: italic;
+  color: gray;
+}
