@@ -14,8 +14,8 @@ sections:
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
-    title: Recent Work
-    subtitle: An optional subtitle of the section
+    title: Videos recientes
+    subtitle: Mira los videos más recientes en nuestro canal de YouTube
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
@@ -47,29 +47,25 @@ sections:
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
   - section_id: testimonials
     type: section_testimonials
-    title: Testimonials
-    subtitle: An optional subtitle of the section
+    title: Testimonios
+    subtitle: Conoce los casos de éxito
     col_number: three
     testimonials:
-      - author: Sean Salazar
-        avatar: images/sean_salazar.jpg
-        avatar_alt: Sean Salazar's photo
+      - author: Amira
+        avatar: images/amira.jpeg
+        avatar_alt: Amira's photo
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
-      - author: Aubrey Hoover
-        avatar: images/aubrey_hoover.jpg
-        avatar_alt: Aubrey Hoover's photo
+          Gracias a este programa, pude comprender lo que realmente es la programación. Poder verla desde otro punto de vista. Hizo que me enamorara del diseño de paginas, y me ayudó a mantener el concepto que tengo. Me ayudó a aprender muchas cosas y fue una bonita experiencia.
+      - author: Mario
+        avatar: images/mario.jpeg
+        avatar_alt: Mario's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Deegan Wallace
-        avatar: images/deegan_wallace.jpg
-        avatar_alt: Deegan Wallace's photo
+          Con este programa aprendí cómo es y de qué personas se conforma el equipo que se necesita para crear un software de calidad y profesional.
+      - author: Bryan
+        avatar: images/bryan.jpeg
+        avatar_alt: Bryan's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
+          El programa de Daniel me ayudó a entender el panorama de la programación. Me despejó de mis dudas. Realmente me ayudó muchísimo a ponerle un punto de inicio a mi carrera profesional.
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
