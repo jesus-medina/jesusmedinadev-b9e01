@@ -1,18 +1,18 @@
 ---
 title: Programación desde 0 – Kotlin para no programadores
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  El problema real es que somos muy pocos programadores porque solemos enseñar a programar a los que ya tienen nociones de programación...
+  Así nació Programación desde 0 – Kotlin para no programadores.
 date: '2020-12-29'
 thumb_image: images/programacion_desde_0_thumb.jpeg
-thumb_image_alt: A leather notebook and a pen on a wooden working table
+thumb_image_alt: A thumbnail image about the formation program
 image: images/programacion_desde_0.jpeg
-image_alt: A leather notebook and a pen on a wooden working table
+image_alt: An image about the formation program
 seo:
-  title: The Elements of Great Workplace Design
+  title: Programación desde 0 – Kotlin para no programadores
   description: >-
-    Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-    accumsan sapien blandit
+    El problema real es que somos muy pocos programadores porque solemos enseñar a programar a los que ya tienen nociones de programación...
+    Así nació Programación desde 0 – Kotlin para no programadores.
   extra:
     - name: 'og:type'
       value: article
@@ -61,7 +61,7 @@ Cuando las personas me preguntan: ¿En qué trabajas? Suelo responderles: Soy de
 
 Mis conocidos y familiares no saben cuanto gano, pero asumen que me va bien. Y cuando les comento que ellos podrían hacer lo que yo, suelen decirme: No, a mi no se me da eso de la programación y los códigos. Asumen que no serán buenos haciendo algo que no saben hacer. Yo siempre me pregunto: ¿Cómo puedes saber que no sabrás algo que no sabes? Lo sé, en verdad no tengo respuesta para eso. Pero si les comento: Yo podría enseñarte. En seguida me responden: Estaría muy bien. ¿Cuándo empezamos?
 
-El problema real es que somos muy pocos programadores porque solemos eneñar a programar a los que ya tienen nociones de programación. Es decir: Enseñamos a programar a los programadores. Esto no es algo descabellado, sabiendo que los programadores siempre estamos buscando aprender algo nuevo. Pero, qué hay de los que no tienen ni idea de lo que es un bit (Quizás más tarde escriba un blog al respecto). Así nació Programación desde 0 – Kotlin para no programadores.
+El problema real es que somos muy pocos programadores porque solemos enseñar a programar a los que ya tienen nociones de programación. Es decir: Enseñamos a programar a los programadores. Esto no es algo descabellado, sabiendo que los programadores siempre estamos buscando aprender algo nuevo. Pero, qué hay de los que no tienen ni idea de lo que es un bit (Quizás más tarde escriba un blog al respecto). Así nació Programación desde 0 – Kotlin para no programadores.
 
 Este proyecto nace de la necesidad de mis conocidos de aprender algo que les permita aumentar sus ingresos, además de descubrir una vocación que no saben que pueden tener y que está más accesible de lo que imaginan.
 
