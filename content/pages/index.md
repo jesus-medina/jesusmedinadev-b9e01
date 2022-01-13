@@ -11,14 +11,24 @@ sections:
       - label: Quiero aumentar mis ingresos
         url: /formation-speaking
         style: button
-  - section_id: latest-projects
-    type: section_portfolio
-    layout_style: mosaic
-    title: Videos recientes
-    subtitle: Mira los videos más recientes en nuestro canal de YouTube
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
+  - section_id: latest-posts
+    type: section_posts
+    title: Visita nuestro Blog
+    subtitle: Revisa nuestros últimos artículos
+    posts_number: 3
+    col_number: three
+    actions:
+      - label: Visitar el Blog
+        url: blog
+        style: button
+  # - section_id: latest-projects
+  #   type: section_portfolio
+  #   layout_style: mosaic
+  #   title: Articulos recientes
+  #   subtitle: Hecha un vistazo a nuestros últimos artículos
+  #   projects_number: 6
+  #   view_all_label: Ver todos
+  #   view_all_url: portfolio
   - section_id: services
     type: section_grid
     title: What We Do
@@ -66,16 +76,6 @@ sections:
         avatar_alt: Bryan's photo
         content: >-
           El programa de Daniel me ayudó a entender el panorama de la programación. Me despejó de mis dudas. Realmente me ayudó muchísimo a ponerle un punto de inicio a mi carrera profesional.
-  - section_id: latest-posts
-    type: section_posts
-    title: Latest from the Blog
-    subtitle: An optional subtitle of the section
-    posts_number: 3
-    col_number: three
-    actions:
-      - label: View Blog
-        url: blog
-        style: button
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
