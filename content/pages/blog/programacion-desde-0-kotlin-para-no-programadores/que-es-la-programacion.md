@@ -111,13 +111,22 @@ Como podemos observar. Pensar en un humano puede ser tan sencillo como los pensa
 ## Conclusión
 Ahora que ya sabes cómo piensan los programadores, te invito a que resulevas tus problemas a través del pensamiento computacional.
 
-## Programación desde 0 – Kotlin para no programadores
-En la siguiente lista podrás encontrar el enlace a cada uno de los videos de la serie conforme los vaya publicando.
+# Programación desde 0 – Kotlin para no programadores
 
-1. Introducción – Programación desde 0 – Kotlin para no programadores
-2. ¿Qué es la programación?
-3. ¿Qué puedo hacer con la programación?
-4. ¿Cómo puedo empezar a programar?
+<div class="centered-image">
+  <a href="https://www.youtube.com/watch?v=kKRW_cUl2Ro" target="_blank">
+    <img src="../../../images/que-es-la-programacion_thumb.png" class="post-image">
+    </img>
+  </a>
+  <p align="center">¿Qué es la programación?</p>
+</div>
+
+En la siguiente lista podrás encontrar en enlace a cada uno de los videos conforme los vaya publicando.
+
+1. [Introducción – Programación desde 0 – Kotlin para no programadores](https://www.youtube.com/watch?v=7hLysDKu814&t=1s)
+2. [¿Qué es la programación?](https://www.youtube.com/watch?v=kKRW_cUl2Ro)
+3. [¿Qué puedo hacer con la programación?](https://www.youtube.com/watch?v=oLiAZmoZutE&t=10s)
+4. [¿Cómo puedo empezar a programar?](https://www.youtube.com/watch?v=GabLhoyijwc)
 5. Herramientas recomendadas para empezar a programar
 6. ¿Qué es una función?
 7. ¿Qué es un dato?
