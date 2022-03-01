@@ -77,14 +77,14 @@ sections:
   #         Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
   #         nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
 seo:
-  title: Stackbit Exto Theme
-  description: The preview of the Exto theme
+  title: JesusDMedinaC
+  description: Ingeniero Móvil Kotlin
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Exto Theme
+      value: JesusDMedinac
       keyName: property
     - name: 'og:description'
       value: The preview of the Exto theme
@@ -96,7 +96,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Exto Theme
+      value: JesusDMedinaC
     - name: 'twitter:description'
       value: The preview of the Exto theme
     - name: 'twitter:image'
