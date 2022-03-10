@@ -55,7 +55,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "<strong>Jesús Daniel Medina Cruz</strong> - ",
         "has_social": true,
         "social_links": [
             {
@@ -80,15 +80,15 @@
                 "new_window": true
             },
             {
-                "label": "Github",
-                "url": "https://github.com/jesus-medina",
+                "label": "Instagram",
+                "url": "https://www.instagram.com/jesusdmedinac/",
                 "style": "icon",
-                "icon": "github",
+                "icon": "instagram",
                 "new_window": true
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/in/jesús-daniel-medina-cruz",
+                "url": "https://www.linkedin.com/in/jesusdmedinac/",
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true
@@ -98,6 +98,27 @@
                 "url": "https://www.youtube.com/channel/UC12UExm8L-x3-OKtPZHKjkA",
                 "style": "icon",
                 "icon": "youtube",
+                "new_window": true
+            },
+            {
+                "label": "Github",
+                "url": "https://github.com/jesusdmedinac",
+                "style": "icon",
+                "icon": "github",
+                "new_window": true
+            },
+            {
+                "label": "Medium",
+                "url": "https://medium.com/jesus-medina",
+                "style": "icon",
+                "icon": "medium",
+                "new_window": true
+            },
+            {
+                "label": "Whatsapp",
+                "url": "https://wa.me/+526631513335",
+                "style": "icon",
+                "icon": "whatsapp",
                 "new_window": true
             }
         ]
