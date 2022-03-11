@@ -42,6 +42,9 @@ export default class MyDocument extends Document {
 
                     gtag('config', 'G-JLTMJQ2EN5');`
                 }}/>
+
+                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2007450789832800"
+                    crossorigin="anonymous"/>
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
                     <script src={withPrefix('js/plugins.js')} />
