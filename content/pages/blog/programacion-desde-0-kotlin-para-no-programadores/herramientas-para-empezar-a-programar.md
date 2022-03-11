@@ -232,7 +232,7 @@ En este libro nos enfocaremos únicamente en Kotlin, pero tu podrás cambiar de 
   <a href="https://www.youtube.com/watch?v=Y0eq8x4dL00" target="_blank">
     <img src="../../../images/miniatura-herramientas-para-empezar-a-programar.png" class="post-image"/>
   </a>
-  <p align="center">¿Cómo puedo empezar a programar?</p>
+  <p align="center">Herramientas para empezar a programar</p>
 </div>
 
 En la siguiente lista podrás encontrar en enlace a cada uno de los videos conforme los vaya publicando.
@@ -242,7 +242,7 @@ En la siguiente lista podrás encontrar en enlace a cada uno de los videos confo
 3. [¿Qué puedo hacer con la programación?](https://www.youtube.com/watch?v=oLiAZmoZutE&t=10s)
 4. [¿Cómo puedo empezar a programar?](https://www.youtube.com/watch?v=GabLhoyijwc)
 5. [Herramientas recomendadas para empezar a programar](https://www.youtube.com/watch?v=Y0eq8x4dL00)
-6. ¿Qué es una función?
+6. [¿Qué es una función?](https://www.youtube.com/watch?v=yHGg9t3W5fA)
 7. ¿Qué es un dato?
 8. ¿Qué es un algoritmo?
 9. ¿Qué es un operador?
