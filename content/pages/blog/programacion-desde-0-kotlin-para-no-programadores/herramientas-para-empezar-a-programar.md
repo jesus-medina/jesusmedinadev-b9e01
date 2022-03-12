@@ -57,7 +57,7 @@ El inglés es la herramienta más valiosa para un programador. Aunque no es nece
 
 ## Jetbrains Academy - [https://www.jetbrains.com/es-es/academy/](https://www.jetbrains.com/es-es/academy/)
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://www.jetbrains.com/es-es/academy/" target="_blank">
     <img src="../../../images/jetbrains-academy-herramienta.png" class="post-image">
     </img>
@@ -85,7 +85,7 @@ Algunas de sus funciones son:
 
 ## FreeCodeCamp - [https://www.freecodecamp.org/espanol/](https://www.freecodecamp.org/espanol/)
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://www.freecodecamp.org/espanol/" target="_blank">
     <img src="../../../images/FreeCodeCamp-herramienta.png" class="post-image">
     </img>
@@ -116,7 +116,7 @@ Lo vuelvo a decir, ¡Es completamente gratis!
 
 ## GrasshoperApp - [https://grasshopper.app/](https://grasshopper.app/)
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://grasshopper.app/" target="_blank">
     <img src="../../../images/grasshoper-herramienta.png" class="post-image">
     </img>
@@ -138,7 +138,7 @@ También cuenta con una versión para teléfonos celulares, lo que te permitirá
 
 ## Mimo - [https://getmimo.com/](https://getmimo.com/)
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://getmimo.com/" target="_blank">
     <img src="../../../images/mimo-herramienta.png" class="post-image">
     </img>
@@ -156,7 +156,7 @@ Experimenta con ejemplos y alcanza tus metas diarias.
 
 ## Khan Academy - [https://es.khanacademy.org/computing/computer-programming](https://es.khanacademy.org/computing/computer-programming)
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://es.khanacademy.org/computing/computer-programming" target="_blank">
     <img src="../../../images/khan-academy-herramienta.png" class="post-image">
     </img>
@@ -176,7 +176,7 @@ Su aprendizaje es personalizado, con contenido de confianza y herramientas para 
 
 ## W3School - [https://www.w3schools.com/](https://www.w3schools.com/)
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://www.w3schools.com/" target="_blank">
     <img src="../../../images/w3schools-herramienta.png" class="post-image" style="width: 64px;">
     </img>
@@ -190,7 +190,7 @@ Cuenta con tutoriales, referencias, y ejemplos que están siendo actualizados co
 
 ## Solo learn - [https://www.sololearn.com/](https://www.sololearn.com/)
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://www.sololearn.com/" target="_blank">
     <img src="../../../images/solo-learn-herramienta.png" class="post-image">
     </img>
@@ -208,7 +208,7 @@ Puedes aprender en computadora o bien, descargando la app.
 
 ## CodeAcademy Go - [https://www.codecademy.com/resources/blog/codecademy-go-faq/](https://www.codecademy.com/resources/blog/codecademy-go-faq/)
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://www.codecademy.com/resources/blog/codecademy-go-faq/" target="_blank">
     <img src="../../../images/code-academy-herramienta.png" class="post-image">
     </img>
@@ -228,7 +228,7 @@ En este libro nos enfocaremos únicamente en Kotlin, pero tu podrás cambiar de 
 
 # Programación desde 0 – Kotlin para no programadores
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://www.youtube.com/watch?v=Y0eq8x4dL00" target="_blank">
     <img src="../../../images/miniatura-herramientas-para-empezar-a-programar.png" class="post-image"/>
   </a>

@@ -59,7 +59,7 @@ Antes de mostrarte los temas de estas 12 semanas me gustaría comentarte que no 
 
 # Programación desde 0 – Kotlin para no programadores
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://www.youtube.com/watch?v=7hLysDKu814&t=1s" target="_blank">
     <img src="../../../images/miniatura-kotlin-para-no-programadores.png" class="post-image">
     </img>

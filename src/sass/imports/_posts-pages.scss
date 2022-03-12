@@ -138,13 +138,19 @@
   }
 }
 
-.centered-image img {
+.centered-container img {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-.centered-image p {
+.centered-container a {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.centered-container p {
   font-style: italic;
   color: gray;
 }

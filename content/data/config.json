@@ -13,18 +13,8 @@
                 "style": "link"
             },
             {
-                "label": "Portafolio",
-                "url": "/portfolio/",
-                "style": "link"
-            },
-            {
                 "label": "Blog",
                 "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "label": "Formación / Speaking",
-                "url": "/formation-speaking/",
                 "style": "link"
             },
             {
@@ -38,18 +28,8 @@
                 "style": "link"
             },
             {
-                "label": "Consultoría",
-                "url": "/consultancy/",
-                "style": "link"
-            },
-            {
-                "label": "Servicios",
-                "url": "/services/",
-                "style": "link"
-            },
-            {
-                "label": "Productos",
-                "url": "/products/",
+                "label": "Aplicar",
+                "url": "/apply-now/",
                 "style": "link"
             }
         ]
