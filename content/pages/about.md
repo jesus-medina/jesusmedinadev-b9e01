@@ -1,11 +1,9 @@
 ---
-title: About Us
-subtitle: This is a short page about us and our work.
-image: images/about.jpg
-image_alt: A man taking a picture
+title: Jesús Daniel Medina Cruz
+subtitle: Ingeniero Móvil en Kotlin
 seo:
-  title: About Us
-  description: This is the about us page
+  title: Jesús Daniel Medina Cruz
+  description: Ingeniero Móvil en Kotlin
   extra:
     - name: 'og:type'
       value: website
@@ -14,7 +12,7 @@ seo:
       value: About Us
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: Ingeniero Móvil en Kotlin
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
@@ -25,17 +23,21 @@ seo:
     - name: 'twitter:title'
       value: About Us
     - name: 'twitter:description'
-      value: This is the about us page
+      value: Ingeniero Móvil en Kotlin
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+<div class="centered-container">
+  <img src="../../../images/yo-white-small.png" class="rounded-image">
+  </img>
+  <p align="center">Jesús Daniel Medina Cruz - Ingeniero Móvil en Kotlin</p>
+</div>
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+Soy Ingeniero de Software experto en desarrollo de apps móviles. Me especializo en Android con Kotlin, el lenguaje de programación oficial para crear apps para Android. He trabajado en proyectos privados como en aplicaciones públicas. Creo que todos los problemas se pueden resolver a través de un dispositivo móvil.
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+Tu también puedes crear soluciones a problemas a tu alrededor. Puede ser que quieras trabajar en un equipo de alto impacto, o ayudar a tu comunidad. Desarrollar apps móviles te permitirá construir un mejor futuro a tu alrededor.
 
-*Thank You for reading!*
+Te ayudo a iniciar tu carrera, o a cambiarte de carrera. Te enseño a desarrollar aplicaciones móviles y webs profesionales. Conviértete en Ingeniero de Software.Aprender a programar podrá convertirse en la herramienta que necesitabas para construir un mejor futuro, obtener mejores oportunidades laborales, mejorar tu calidad de vida y/o cumplir con tu propósito en la vida.
