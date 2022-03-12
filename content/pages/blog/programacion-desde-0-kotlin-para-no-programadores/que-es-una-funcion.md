@@ -95,7 +95,7 @@ Para que tú puedas probar estos ejemplos te invito a que visites el [área de j
 
 Veamos el siguiente ejemplo:
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://gist.github.com/jesusdmedinac/b56064721881fa9daafd121da6379f7b" target="_blank">
     <img src="../../../images/funcion-para-sumar-dos-numeros-en-kotlin.png" class="post-image">
     </img>
@@ -117,7 +117,7 @@ Algunos lenguajes de programación son similares por la manera en la que se escr
 
 En el siguiente ejemplo veremos la anatomía de una función escrita en Kotlin:
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://gist.github.com/jesusdmedinac/78c1898a3118549c5411ba2b84ac12a4" target="_blank">
     <img src="../../../images/anatomia-de-una-función-en-kotlin.png" class="post-image">
     </img>
@@ -167,7 +167,7 @@ Recuerda que la mejor forma de aprender a programar es practicando. Te invito a 
 
 # Programación desde 0 – Kotlin para no programadores
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://www.youtube.com/watch?v=Y0eq8x4dL00" target="_blank">
     <img src="../../../images/miniatura-que-es-una-funcion.png" class="post-image"/>
   </a>

@@ -67,7 +67,7 @@ Algunos ejemplos de áreas de juegos (Playground en inglés) son los siguientes:
 
 ## JavaScript - [https://playcode.io/](https://playcode.io/)
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://www.youtube.com/watch?v=GabLhoyijwc" target="_blank">
     <img src="../../../images/javascript-playground.png" class="post-image">
     </img>
@@ -79,7 +79,7 @@ El área de juego más rápida y simple con resultados visuales y en consola en 
 
 ## Python - [https://www.programming-hero.com/code-playground/python/index.html](https://www.programming-hero.com/code-playground/python/index.html)
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://www.youtube.com/watch?v=GabLhoyijwc" target="_blank">
     <img src="../../../images/python-playground.png" class="post-image">
     </img>
@@ -91,7 +91,7 @@ Programming Hero es una divertida, interactiva, visual, y amigable manera de apr
 
 ## Java - [https://code.sololearn.com/cVRUy2BwauK8](https://code.sololearn.com/cVRUy2BwauK8)
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://www.youtube.com/watch?v=GabLhoyijwc" target="_blank">
     <img src="../../../images/java-playground.png" class="post-image">
     </img>
@@ -103,7 +103,7 @@ Con code sololearn puedes probar Java de forma rápida y sencilla.
 
 ## Go - [https://play.golang.org/](https://play.golang.org/)
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://www.youtube.com/watch?v=GabLhoyijwc" target="_blank">
     <img src="../../../images/go-playground.png" class="post-image">
     </img>
@@ -115,7 +115,7 @@ El área de juegos oficial del lenguaje de programación creado por Google.
 
 ## Ruby - [https://try.ruby-lang.org/playground/](https://try.ruby-lang.org/playground/)
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://www.youtube.com/watch?v=GabLhoyijwc" target="_blank">
     <img src="../../../images/ruby-playground.png" class="post-image">
     </img>
@@ -127,7 +127,7 @@ Ruby y su área de juegos. Prueba este sencillo lenguaje a través de este senci
 
 ## Kotlin - [https://play.kotlinlang.org/](https://play.kotlinlang.org/)
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://www.youtube.com/watch?v=GabLhoyijwc" target="_blank">
     <img src="../../../images/kotlin-playground.png" class="post-image">
     </img>
@@ -151,7 +151,7 @@ Te puedo garantizar que al finalizar estos cursos podrás decir que ya sabes las
 
 ### Platzi - [https://platzi.com/cursos/programacion-basica/](https://platzi.com/cursos/programacion-basica/)
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://www.youtube.com/watch?v=GabLhoyijwc" target="_blank">
     <img src="../../../images/curso-programacion-platzi.png" class="post-image">
     </img>
@@ -168,7 +168,7 @@ Programa desde cero, domina Javascript, entiende HTML y aprende de algoritmos. 
 
 ### EDTeam - [https://ed.team/cursos/programacion](https://ed.team/cursos/programacion)
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://www.youtube.com/watch?v=GabLhoyijwc" target="_blank">
     <img src="../../../images/curso-programacion-edteam.jpeg" class="post-image">
     </img>
@@ -182,7 +182,7 @@ Programar no se trata de código, se trata de lógica. Este curso te enseña la 
 
 ### Google Digital Garage - [https://learndigital.withgoogle.com/digitalgarage/course/basics-code](https://learndigital.withgoogle.com/digitalgarage/course/basics-code)
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://www.youtube.com/watch?v=GabLhoyijwc" target="_blank">
     <img src="../../../images/curso-programacion-google.png" class="post-image">
     </img>
@@ -196,7 +196,7 @@ Toma una introducción a la programación, encuentra cómo funciona, qué puedes
 
 ### **Freecodecamp - [https://www.freecodecamp.org/news/computer-basics-for-absolute-beginners/](https://www.freecodecamp.org/news/computer-basics-for-absolute-beginners/)**
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://www.youtube.com/watch?v=GabLhoyijwc" target="_blank">
     <img src="../../../images/curso-programacion-freecodecamp.png" class="post-image">
     </img>
@@ -216,7 +216,7 @@ En nuestra serie de videos nos enfocaremos en Kotlin. Hablaremos más de Kotlin 
 
 # Programación desde 0 – Kotlin para no programadores
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://www.youtube.com/watch?v=GabLhoyijwc" target="_blank">
     <img src="../../../images/que-puedo-hacer-con-la-programacion_thumb.png" class="post-image"/>
   </a>

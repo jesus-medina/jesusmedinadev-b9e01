@@ -85,7 +85,7 @@ Igual, te dejo la lista para que te des una idea:
 ## Pensamiento computacional
 Según Jeannette M. Wing, en uno de sus artículos publicados sobre el [pensamiento computacional](https://www.researchgate.net/publication/274309848_Computational_Thinking) expresa que:
 
-<div class="centered-image">
+<div class="centered-container">
   <img src="../../../../images/jeannette-m_thumb.jpeg" class="post-image">
   </img>
   <p align="center">Jeannette M. Wing</p>
@@ -113,7 +113,7 @@ Ahora que ya sabes cómo piensan los programadores, te invito a que resulevas tu
 
 # Programación desde 0 – Kotlin para no programadores
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://www.youtube.com/watch?v=kKRW_cUl2Ro" target="_blank">
     <img src="../../../images/que-es-la-programacion_thumb.png" class="post-image">
     </img>

@@ -4,12 +4,12 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Consigue tu primer empleo como programador aún sin saber programar'
+    title: 'Conviertete en un profesional en la industria de la tecnología'
     content: >
-      Nuestro programa “Programa tu futuro” es un programa de formación intensivo que te convierte en un programador profesional en menos de 1 año.
+      Aprende las habilidades que necesitas para ser contratado. Te damos una computadora personal. Aprenda en línea, conéctate a oportunidades que cambian la vida. ¡Paga $0 hasta que consigas un trabajo!
     actions:
       - label: Quiero aumentar mis ingresos
-        url: /formation-speaking
+        url: /apply-now
         style: button
   - section_id: latest-posts
     type: section_posts

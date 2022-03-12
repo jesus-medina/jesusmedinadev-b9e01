@@ -217,7 +217,7 @@ Así, yo he decidido dedicar el tiempo que me toma cada semana para compartirte 
 
 # Programación desde 0 – Kotlin para no programadores
 
-<div class="centered-image">
+<div class="centered-container">
   <a href="https://www.youtube.com/watch?v=oLiAZmoZutE&t=10s" target="_blank">
     <img src="../../../images/que-puedo-hacer-con-la-programacion_thumb.png" class="post-image">
     </img>

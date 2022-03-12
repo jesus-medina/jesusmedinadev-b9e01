@@ -1,44 +1,41 @@
 ---
-title: Contact
+title: Mupper
 hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
     content: >-
-      Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at
-      [example@example.com](mailto:example@example.com).
+      ¡El crédito Mupper estará disponible muy pronto! ¿Quieres aprovechar tu oportunidad? Envíanos un mensaje en el siguiente formulario.
     form_id: contactForm
     form_action: /thank-you
     form_fields:
       - input_type: text
         name: name
-        label: Name
-        default_value: Your name
+        label: Nombre
+        default_value: ¿Cómo te llamas?
         is_required: true
       - input_type: email
         name: email
-        label: Email
-        default_value: Your email address
+        label: Correo electrónico
+        default_value: Y ¿tu correo electrónico?
         is_required: true
-      - input_type: select
-        name: subject
-        label: Subject
-        default_value: Please select
-        options:
-          - Error on the site
-          - Sponsorship
-          - Other
+      #- input_type: select
+      #  name: subject
+      #  label: Subject
+      #  default_value: Please select
+      #  options:
+      #    - Error on the site
+      #    - Sponsorship
+      #    - Other
       - input_type: textarea
         name: message
-        label: Message
-        default_value: Your message
+        label: Mensaje
+        default_value: Me encantaría convertirme en un profesional de la industria de la tecnología.
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-    submit_label: Send Message
+          Me gustaría ser contactado cuando el crédito esté disponible.
+    submit_label: Enviar mensaje
 seo:
   title: Contact
   description: This is the contact page
