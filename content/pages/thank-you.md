@@ -1,10 +1,9 @@
 ---
-title: Thank You!
-image: images/thank-you.jpg
+image: images/mupper-poster.png
 image_alt: Thank You Led Signage
 layout: page
 ---
 
-Thank you for contacting us! We will get back in touch with you soon.
+Nosotros te contactaremos cuando el crédito esté disponible.
 
-**Have a great day!**
+**¡Ten un gran día!**
